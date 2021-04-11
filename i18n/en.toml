@@ -10,6 +10,9 @@ other = "Tags"
 [menuProjects]
 other = "Projects"
 
+[menuAbout]
+other = "About"
+
 [menuBurgerTitle]
 other = "Menu"
 
